@@ -1,0 +1,6 @@
+name: ItemsBlockerH
+version: 1.0-SNAPSHOT
+main: me.haczyn.tnt.Main
+authors: [Haczyn]
+description: Lock the placement of blocks by the height
+website: lecraft.pl
